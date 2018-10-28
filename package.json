@@ -1,0 +1,17 @@
+{
+  "name": "discord-entourage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "alexsmbaratti",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
