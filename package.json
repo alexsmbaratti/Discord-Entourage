@@ -9,6 +9,10 @@
   "keywords": [
     "Discord"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexsmbaratti/Discord-Entourage.git"
+  },
   "author": "alexsmbaratti",
   "license": "MIT",
   "dependencies": {
